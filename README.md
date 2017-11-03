@@ -2,7 +2,7 @@
 
 Build Boost bcp via CMake.
 
-Just `cmake` it, tested on Windows+VS2010/VS2015 and Ubuntu+gcc4.8.
+Just `cmake` it, tested on Windows+VS2010/VS2015, Ubuntu+gcc4.8 and macOS+llvm.
 
 See [district10/bcp at standalone](https://github.com/district10/bcp/tree/standalone) for HOWTOs,
 and also some binaries.
